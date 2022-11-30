@@ -65,7 +65,7 @@ Schliesslich kommt unser Besuch bei der Berufsfeuerwehr zu seinem Ende. Kevin Ni
 
 ```
 
-###### Kevin Nideröst ist vor seiner Karriere bei der Berufsfeuerwehr Schreiner gewesen. 
+`Kevin Nideröst ist vor seiner Karriere bei der Berufsfeuerwehr Schreiner gewesen. 
 Die Vorhersehbarkeit des Alltags in der Schreinerei ist ihm mit der Zeit zuwider 
 geworden. Als seine Schreinerei eines Tages einen Auftrag für den Bau des neuen 
 Hauptquartiers der Berufsfeuerwehr Bern bekommen hat, hat er vor Ort gearbeitet 
@@ -80,7 +80,7 @@ Ausbildung zum Berufsfeuerwehrmann alles Wichtige von Grund auf lernt,
 daher ist eine Mitgliedschaft in einer Milizfeuerwehr auch kein Kriterium für
 eine Aufnahme in die Berufsfeuerwehr. Mittlerweile arbeitet Kevin Nideröst 
 seit vier Jahren bei der Berufsfeuerwehr Bern und ist von der Abwechslung 
-im Arbeitsalltag begeistert.
+im Arbeitsalltag begeistert.`
 
 ```
 {{</box>}}
