@@ -19,6 +19,8 @@ An einem regnerischen Freitag, kurz vor zwei Uhr nachmittags, finden wir uns im 
 
 
 > *«Der Kran ist ein Spielzeug für grosse Jungs»*
+>
+> *\-- Kevin Nideröst*
 
 ##### Ein weitgehend autonomer Betrieb
 
@@ -69,6 +71,8 @@ Auf dem Rückweg zum Haupteingang laufen wir durch die Haupthalle, wo die Fahrze
 
 
 > *«Berufsfeuerwehrmänner sind dazu verpflichtet, fit zu sein.»*
+>
+> *\-- Kevin Nideröst*
 
 ##### Allzeit bereit
 
