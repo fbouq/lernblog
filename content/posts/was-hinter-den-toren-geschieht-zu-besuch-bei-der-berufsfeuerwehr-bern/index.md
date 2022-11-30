@@ -85,3 +85,9 @@ Ein Berufsfeuerwehrmann braucht viel Wissen und Können, um seinen Beruf ausübe
 Als wir Kevin Nideröst fragen, ob er denn mit dem Gebäude der Berufsfeuerwehr zufrieden sei, antwortet er grinsend, dass das Gebäude zuerst noch einige Mängel aufgewiesen habe. So sei zum Beispiel der Ablauf bei der Waschanlage nicht der tiefste Punkt in jener gewesen. Dadurch habe das Wasser nicht zuverlässig ablaufen können. Weiter erklärt er, dass es im Gebäude immer warm sei, da es nach Minergie-Standards gebaut worden sei. Aber jetzt sei er im Großen und Ganzen zufrieden mit der modernen Ausstattung, die das 2014 eingeweihte Gebäude habe. Die Berufsfeuerwehr existiert jedoch schon viel länger. Die erste Vorgängerin der Berufsfeuerwehr der Stadt Bern, das Brandcorps, entstand schon im Jahre 1908. Damals war zwar nur ein Feuerwehrmann beschäftigt, dieser arbeitete jedoch Vollzeit.  Heute ist das Brandcorps ein Teil der Milizfeuerwehr der Stadt Bern, welche die Berufsfeuerwehr bei Bedarf unterstützt. 
 
 Schliesslich kommt unser Besuch bei der Berufsfeuerwehr zu seinem Ende. Kevin Nideröst begleitet uns wieder zum Haupteingang zurück, wo wir unseren Rundgang gestartet haben. Wir verabschieden uns von ihm und verlassen das Gebäude. Reich an Eindrücken und begeistert über die Einblicke in das imposante Gebäude entfernen wir uns von diesem.
+
+
+
+```
+{{<box title="Hintergrundinformationen zu Kevin Nideröst">}}
+```
