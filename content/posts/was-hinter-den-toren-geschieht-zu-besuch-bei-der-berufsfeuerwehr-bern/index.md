@@ -10,7 +10,11 @@ pinned = false
 
 
 
+
+
 ![Blick in die lange Fahrzeughall mit dem Grosslöschfahrzeug mit dem 10'000 Liter Tank im Vordergrund. (aufgenommen von Fabrice Bouquet)](img_20221021_141129-resized.jpg)
+
+
 
 
 
@@ -18,9 +22,13 @@ An einem regnerischen Freitag, kurz vor zwei Uhr nachmittags, finden wir uns im 
 
 
 
+
+
 > *«Der Kran ist ein Spielzeug für grosse Jungs»*
 >
 >  *Kevin Nideröst*
+
+
 
 ##### Ein weitgehend autonomer Betrieb
 
@@ -32,11 +40,17 @@ Als wir später zur Waschanlage gehen, die von beiden Seiten durch Tore befahrba
 
 
 
+
+
 ![Die Waschanlage mit dem Lift für grosse Fahrzeuge. (aufgenommen von Fabrice Bouquet)](img_20221021_141026-resized.jpg)
+
+
 
 ##### Zukunftsmusik
 
 Kevin Nideröst erzählt uns, es sei geplant, die Pikettdienstautos der Berufsfeuerwehr schon bald durch Elektrofahrzeuge zu ersetzen. Angesprochen auf das Brennverhalten von Elektrofahrzeugen antwortet Kevin Nideröst, dass das Löschen nicht gross anders als bei Fahrzeugen mit konventionellen Motoren sei. «In Übungen werden wir im richtigen Umgang mit verunfallten Elektrofahrzeugen geschult. Wenn die Akkus von Elektrofahrzeugen zum Beispiel nach einem Unfall beschädigt sind, kann es in seltenen Fällen vorkommen, dass sie sich spontan entzünden oder nach dem Löschen wieder zu brennen beginnen. Um mit diesem Problem umzugehen, hat die Berufsfeuerwehr Verträge mit Abschleppdiensten, die spezielle Container zu Unfallstellen liefern.» Mit diesen Containern werden verunfallte Elektrofahrzeuge abgeschirmt. Falls die Akkus zu brennen beginnen, können diese Container mit Wasser geflutet werden. Den Grossteil des Fahrzeugparks mit Elektrofahrzeugen zu ersetzen sei im Moment kein Thema. Kevin Nideröst erzählt uns, dass es zwar Lastwagen mit Elektroantrieb gebe, diese jedoch grosse Akkus eingebaut hätten, und es dadurch schwieriger sei, auf solchen Fahrzeugen Ausrüstung und Werkzeugen zu transportieren. Zudem sei bei solchen elektrischen Tanklöschfahrzeugen die Wasserpumpe mit einem Dieselmotor betrieben, somit sei lediglich der Fahrantrieb elektrisch geregelt. Deshalb wären wahrscheinlich wasserstoffbetriebene Lastwagen die beste Option für den Umstieg auf erneuerbare Energien. Angesprochen darauf, wie die Berufsfeuerwehr mit brennenden Wasserstofffahrzeugen umgeht, antwortet Kevin Nideröst, dass die Berufsfeuerwehr bis jetzt noch keinen Einsatz mit Wasserstofffahrzeugen gehabt habe. «Schulungen zum Umgang mit solchen Fahrzeugen sind erst für nächstes Jahr angesagt», sagt Kevin Nideröst.
+
+
 
 
 
@@ -46,7 +60,11 @@ Nach dem Anschauen der Werkstätten und der Waschanlage laufen wir zur Sattlerei
 
 
 
+
+
 ![Die Sattlerei, in der die Schutzbekleidung instandgehalten wird. (aufgenommen von Fabrice Bouquet)](img_20221021_140316-resized.jpg)
+
+
 
 
 
@@ -54,7 +72,11 @@ Als Nächstes schauen wir uns das Schlauchlager an. Es befindet sich auf derselb
 
 
 
+
+
 ![Das Schlauchlager (aufgenommen von Fabrice Bouquet)](img_20221021_140915-resized.jpg)
+
+
 
 
 
@@ -62,7 +84,11 @@ Der Raum, in dem die Atemschutzgeräte gelagert werden, besteht aus einem Teil, 
 
 
 
+
+
 ![Das Lager mit der Atemschutzausrüstung. Im Hintergrund unterhalb der Fenster sieht man die Anschlüsse an den Kompressor zum Befüllen der Druckluftflaschen. (aufgenommen von Fabrice Bouquet)](img_20221021_140726-resized.jpg)
+
+
 
 ##### Der Kran – Ein besonderes Fahrzeug
 
@@ -70,9 +96,13 @@ Auf dem Rückweg zum Haupteingang laufen wir durch die Haupthalle, wo die Fahrze
 
 
 
+
+
 > *«Berufsfeuerwehrmänner sind dazu verpflichtet, fit zu sein.»*
 >
 >  *Kevin Nideröst*
+
+
 
 ##### Allzeit bereit
 
