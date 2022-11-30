@@ -8,19 +8,9 @@ pinned = false
 
 ## Die Berufsfeuerwehr Bern löscht nicht nur Brände. Diese machen nur ca. 10% der Einsätze der Berufsfeuerwehr aus. Die Berufsfeuerwehrleute sind jedoch nicht ständig im Einsatz. Um zu erfahren, was die Berufsfeuerwehrleute ausserhalb von Einsätzen machen, haben wir die Berufsfeuerwehr Bern besucht.
 
-
-
-
-
 ![Blick in die lange Fahrzeughall mit dem Grosslöschfahrzeug mit dem 10'000 Liter Tank im Vordergrund. (aufgenommen von Fabrice Bouquet)](img_20221021_141129-resized.jpg)
 
-
-
-
-
 An einem regnerischen Freitag, kurz vor zwei Uhr nachmittags, finden wir uns im Berner Forsthaus ein. Wir betreten den Haupteingang der grossen Feuerwehrkaserne. Zuvor haben wir uns für eine kleine Führung durch das Gebäude angemeldet. Mit einem Knopfdruck werden wir mit jemandem verbunden, der sagt, dass uns bald die Tür geöffnet wird. Kurz darauf öffnet ein freundlicher Berufsfeuerwehrmann, der sich als Kevin Nideröst vorstellt, die Eingangstür und begrüsst uns. Um eine andere Tür, die in die Fahrzeughalle führt, zu öffnen, muss er seine Hand an einen Handleser halten.
-
-
 
 > *«Der Kran ist ein Spielzeug für grosse Jungs»*
 
@@ -32,45 +22,29 @@ Wir verlassen die Schreinerei und laufen den Gang hinunter zur nächsten Tür. N
 
 Als wir später zur Waschanlage gehen, die von beiden Seiten durch Tore befahrbar ist, sind der Boden und der grosse Lift noch nass von der letzten Benutzung der Lavage. Kevin Nideröst erzählt uns, dass die Berufsfeuerwehrleute gegen eine jährliche Pauschale, die alle zahlten, die Waschanlage und den Autolift in der Autowerkstatt auch privat benutzen dürften. Ausserdem könnten die Berufsfeuerwehrleute zu einem leicht tieferen Preis als an normalen Tankstellen an der hauseigenen Tankstelle ihre Autos tanken.
 
- 
-
 ![Die Waschanlage mit dem Lift für grosse Fahrzeuge. (aufgenommen von Fabrice Bouquet)](img_20221021_141026-resized.jpg)
 
 ##### Zukunftsmusik
 
 Kevin Nideröst erzählt uns, es sei geplant, die Pikettdienstautos der Berufsfeuerwehr schon bald durch Elektrofahrzeuge zu ersetzen. Angesprochen auf das Brennverhalten von Elektrofahrzeugen antwortet Kevin Nideröst, dass das Löschen nicht gross anders als bei Fahrzeugen mit konventionellen Motoren sei. «In Übungen werden wir im richtigen Umgang mit verunfallten Elektrofahrzeugen geschult. Wenn die Akkus von Elektrofahrzeugen zum Beispiel nach einem Unfall beschädigt sind, kann es in seltenen Fällen vorkommen, dass sie sich spontan entzünden oder nach dem Löschen wieder zu brennen beginnen. Um mit diesem Problem umzugehen, hat die Berufsfeuerwehr Verträge mit Abschleppdiensten, die spezielle Container zu Unfallstellen liefern.» Mit diesen Containern werden verunfallte Elektrofahrzeuge abgeschirmt. Falls die Akkus zu brennen beginnen, können diese Container mit Wasser geflutet werden. Den Grossteil des Fahrzeugparks mit Elektrofahrzeugen zu ersetzen sei im Moment kein Thema. Kevin Nideröst erzählt uns, dass es zwar Lastwagen mit Elektroantrieb gebe, diese jedoch grosse Akkus eingebaut hätten, und es dadurch schwieriger sei, auf solchen Fahrzeugen Ausrüstung und Werkzeugen zu transportieren. Zudem sei bei solchen elektrischen Tanklöschfahrzeugen die Wasserpumpe mit einem Dieselmotor betrieben, somit sei lediglich der Fahrantrieb elektrisch geregelt. Deshalb wären wahrscheinlich wasserstoffbetriebene Lastwagen die beste Option für den Umstieg auf erneuerbare Energien. Angesprochen darauf, wie die Berufsfeuerwehr mit brennenden Wasserstofffahrzeugen umgeht, antwortet Kevin Nideröst, dass die Berufsfeuerwehr bis jetzt noch keinen Einsatz mit Wasserstofffahrzeugen gehabt habe. «Schulungen zum Umgang mit solchen Fahrzeugen sind erst für nächstes Jahr angesagt», sagt Kevin Nideröst.
 
-
-
 ##### Unter Druck
 
 Nach dem Anschauen der Werkstätten und der Waschanlage laufen wir zur Sattlerei. Auf dem Weg dorthin herrscht auf einmal wieder reger Betrieb, denn die Mittagspause ist nun vorbei. Berufsfeuerwehrmänner laufen uns entgegen, grüssen uns. Die Sattlerei ist ein kleiner Raum, verglichen mit den vorher erwähnten Werkstätten. In der Sattlerei wird die Schutzausrüstung der Berufsfeuerwehrmänner, wie Schuhe, Helme und Brandschutzbekleidung, repariert.
 
-
-
 ![Die Sattlerei, in der die Schutzbekleidung instandgehalten wird. (aufgenommen von Fabrice Bouquet)](img_20221021_140316-resized.jpg)
-
-
 
 Als Nächstes schauen wir uns das Schlauchlager an. Es befindet sich auf derselben Seite des Gebäudes wie die Schreinerei, die Autowerkstatt und die Schlosserei. Im Schlauchlager befinden sich viele aufgerollte Schläuche, die für Löscheinsätze unentbehrlich sind. Mit einer Maschine werden die Schläuche geputzt und gleichzeitig mit einem Wasserdruck von 16 Bar getestet. «Trotzdem kann es im Einsatz passieren, dass ein Schlauch platzt», erzählt Kevin Nideröst.
 
-
-
 ![Das Schlauchlager (aufgenommen von Fabrice Bouquet)](img_20221021_140915-resized.jpg)
 
-
-
 Der Raum, in dem die Atemschutzgeräte gelagert werden, besteht aus einem Teil, in dem Wartungen an den Geräten vorgenommen werden, und aus Regalen mit den Atemschutzgeräten. Am hinteren Ende der Regale werden die Pressluftflaschen an Kompressoren angeschlossen und gefüllt. Die Schläuche, mit denen man die Pressluftflaschen befüllt, sehen sehr ähnlich aus wie die, die man zum Befüllen von Pressluftflaschen beim Tauchen benutzt. Im Atemschutzgerätlager ist ein simples, aber dennoch cleveres System im Einsatz, um zu gewährleisten, dass alle Atemschutzgeräte benutzt werden. Dabei wird ein Pfeil am Regal mit den Atemschutzgeräten entlang verschoben, der anzeigt, welche Geräte benutzt werden müssen. So wird sichergestellt, dass alle Geräte innerhalb eines bestimmten Zeitraums einmal benutzt werden. Somit werden auch allfällige Defekte an den Atemschutzgeräten entdeckt.
-
-
 
 ![Das Lager mit der Atemschutzausrüstung. Im Hintergrund unterhalb der Fenster sieht man die Anschlüsse an den Kompressor zum Befüllen der Druckluftflaschen. (aufgenommen von Fabrice Bouquet)](img_20221021_140726-resized.jpg)
 
 ##### Der Kran – Ein besonderes Fahrzeug
 
 Auf dem Rückweg zum Haupteingang laufen wir durch die Haupthalle, wo die Fahrzeuge der Berufsfeuerwehr stehen. «Der Kran ist mein Lieblingsfahrzeug, da er gross und vielseitig einsetzbar ist. Er ist fast wie ein Spielzeug für grosse Jungs», erklärt uns Kevin Nideröst. Genau dieser Kran habe er bei seinem letzten Einsatz eingesetzt. «Mein letzter Einsatz war eine Grosstierrettung. Ein Kalb war in eine Güllegrube gefallen und wir mussten es herausheben», führt Kevin Nideröst aus. «Um das Kalb am Kran zu befestigen, musste ihm zuerst ein sogenanntes Grosstierrettungsnetz angezogen werden. Dazu mussten wir hinab in die Güllegrube steigen. Zum Schutz vor der Gülle und den Gasen in der Güllegrube haben wir Trockentauchanzüge mit Handschuhen und Stiefeln zusätzlich zum Atemschutzgerät getragen», erklärt uns Kevin Nideröst. Mit dieser Schutzausrüstung merke man gar nicht viel von der Gülle. Man wisse zwar, dass man in der Gülle sei, doch man rieche nichts. Als das Rettungsnetz schliesslich befestigt gewesen sei, sei das Kalb mit dem Kran aus der Güllegrube gehoben worden.
-
-
 
 > *«Berufsfeuerwehrmänner sind dazu verpflichtet, fit zu sein.»*
 
@@ -86,8 +60,10 @@ Als wir Kevin Nideröst fragen, ob er denn mit dem Gebäude der Berufsfeuerwehr 
 
 Schliesslich kommt unser Besuch bei der Berufsfeuerwehr zu seinem Ende. Kevin Nideröst begleitet uns wieder zum Haupteingang zurück, wo wir unseren Rundgang gestartet haben. Wir verabschieden uns von ihm und verlassen das Gebäude. Reich an Eindrücken und begeistert über die Einblicke in das imposante Gebäude entfernen wir uns von diesem.
 
-
-
 ```
-{{<box title="Hintergrundinformationen zu Kevin Nideröst">}}
+{{<box title="Kevin Niderösts Weg zur Berufsfeuerwehr">}}
+Kevin Nideröst ist vor seiner Karriere bei der Berufsfeuerwehr Schreiner gewesen. Die Vorhersehbarkeit des Alltags in der Schreinerei ist ihm mit der Zeit zuwider geworden. Als seine Schreinerei eines Tages einen Auftrag für den Bau des neuen Hauptquartiers der Berufsfeuerwehr Bern bekommen hat, hat er vor Ort gearbeitet und ihm ist die Idee gekommen, sich bei der Berufsfeuerwehr zu bewerben.  Einige Zeit später, als ihm der Alltag zu Kopfe gestiegen ist, hat er sich erfolgreich beworben und ist in den Ausbildungsprozess zum Berufsfeuerwehrmann aufgenommen worden. Nach der Zusage hat er die Lastwagenprüfung absolviert, die für Berufsfeuerwehrleute Pflicht ist. Vor seiner Ausbildung zum Berufsfeuerwehrmann ist er nie Teil einer Milizfeuerwehr gewesen, was für ihn kein grosser Nachteil gewesen ist, weil man in der anderthalbjährigen Ausbildung zum Berufsfeuerwehrmann alles Wichtige von Grund auf lernt, daher ist eine Mitgliedschaft in einer Milizfeuerwehr auch kein Kriterium für eine Aufnahme in die Berufsfeuerwehr. Mittlerweile arbeitet Kevin Nideröst seit vier Jahren bei der Berufsfeuerwehr Bern und ist von der Abwechslung im Arbeitsalltag begeistert.
+{{</box>}}
 ```
+
+Kevin Nideröst ist vor seiner Karriere bei der Berufsfeuerwehr Schreiner gewesen. Die Vorhersehbarkeit des Alltags in der Schreinerei ist ihm mit der Zeit zuwider geworden. Als seine Schreinerei eines Tages einen Auftrag für den Bau des neuen Hauptquartiers der Berufsfeuerwehr Bern bekommen hat, hat er vor Ort gearbeitet und ihm ist die Idee gekommen, sich bei der Berufsfeuerwehr zu bewerben.  Einige Zeit später, als ihm der Alltag zu Kopfe gestiegen ist, hat er sich erfolgreich beworben und ist in den Ausbildungsprozess zum Berufsfeuerwehrmann aufgenommen worden. Nach der Zusage hat er die Lastwagenprüfung absolviert, die für Berufsfeuerwehrleute Pflicht ist. Vor seiner Ausbildung zum Berufsfeuerwehrmann ist er nie Teil einer Milizfeuerwehr gewesen, was für ihn kein grosser Nachteil gewesen ist, weil man in der anderthalbjährigen Ausbildung zum Berufsfeuerwehrmann alles Wichtige von Grund auf lernt, daher ist eine Mitgliedschaft in einer Milizfeuerwehr auch kein Kriterium für eine Aufnahme in die Berufsfeuerwehr. Mittlerweile arbeitet Kevin Nideröst seit vier Jahren bei der Berufsfeuerwehr Bern und ist von der Abwechslung im Arbeitsalltag begeistert.
