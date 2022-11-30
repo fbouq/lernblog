@@ -65,7 +65,7 @@ Schliesslich kommt unser Besuch bei der Berufsfeuerwehr zu seinem Ende. Kevin Ni
 
 ```
 
-Kevin Nideröst ist vor seiner Karriere bei der Berufsfeuerwehr Schreiner gewesen. 
+###### Kevin Nideröst ist vor seiner Karriere bei der Berufsfeuerwehr Schreiner gewesen. 
 Die Vorhersehbarkeit des Alltags in der Schreinerei ist ihm mit der Zeit zuwider 
 geworden. Als seine Schreinerei eines Tages einen Auftrag für den Bau des neuen 
 Hauptquartiers der Berufsfeuerwehr Bern bekommen hat, hat er vor Ort gearbeitet 
