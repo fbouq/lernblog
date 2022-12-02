@@ -7,15 +7,7 @@ image = "img_20221021_141129-resized.jpg"
 +++
 ###### Eine Reportage von Fabrice Bouquet und Linus Kradolfer
 
-
-
-
-
 ## Die Berufsfeuerwehr Bern löscht nicht nur Brände. Diese machen nur ca. 10% der Einsätze der Berufsfeuerwehr aus. Die Berufsfeuerwehrleute sind jedoch nicht ständig im Einsatz. Um zu erfahren, was die Berufsfeuerwehrleute ausserhalb von Einsätzen machen, haben wir die Berufsfeuerwehr Bern besucht.
-
-
-
-
 
 ![Blick in die lange Fahrzeughall mit dem Grosslöschfahrzeug mit dem 10'000 Liter Tank im Vordergrund. (aufgenommen von Fabrice Bouquet)](img_20221021_141129-resized.jpg)
 
@@ -27,11 +19,11 @@ An einem regnerischen Freitag, kurz vor zwei Uhr nachmittags, finden wir uns im 
 
 ##### Ein weitgehend autonomer Betrieb
 
-Als wir die Halle betreten, herrscht nicht viel Betrieb, da gerade noch Mittagspause ist. Uns fällt sofort auf, dass die Temperatur im Gebäude recht hoch ist. Lange verbleiben wir nicht in dieser grossen Fahrzeughalle, sondern wir gehen direkt in den hinteren Teil des Gebäudes. Wir hören die Autobahn, die sich hinter einem schmalen Wäldchen verbirgt. Diese Lage an der Autobahn kommt nicht von ungefähr, so sind die Retter auch schneller in entlegeneren Teilen der Region. Sofern sie nicht ausrücken, arbeiten Berufsfeuerwehrleute unter anderem in einer von mehreren Werkstätten der Berufsfeuerwehr Bern. Die Berufsfeuerwehrleute sind grundsätzlich so in die verschiedenen Werkstätten eingeteilt, dass jeder und jede etwas macht, was mit seinem oder ihrem vorherigen Beruf zu tun hat. Kevin Nideröst zeigt uns zuerst seine Werkstatt, die vorzüglich ausgestattete Schreinerei. «Hier werden unter anderem Türen und andere Holzobjekte repariert.», erklärt uns Kevin Nideröst.  Immer wieder würden hier auch Teile des Mobiliars angefertigt werden, so etwa als die kantonale Einsatzzentrale der Polizei, Feuerwehr und Sanität, kurz KEZ, in den grossen Raum im obersten Stock des Gebäudes eingezogen ist. Damals sei unter anderem ein Holzboden in den ehemaligen Theorieraum der Feuerwehr eingebaut worden, um die zahlreichen Kabel, die benötigt wurden, darunter zu verstauen. Dieser Holzboden sei in dieser Werkstatt entstanden. 
+Als wir die Halle betreten, herrscht nicht viel Betrieb, da gerade noch Mittagspause ist. Lange verbleiben wir nicht in dieser grossen Fahrzeughalle, sondern wir gehen direkt in den hinteren Teil des Gebäudes. Wir hören die Autobahn, die sich hinter einem schmalen Wäldchen verbirgt. Diese Lage an der Autobahn kommt nicht von ungefähr, so sind die Retter auch schneller in entlegeneren Teilen der Region. Sofern sie nicht ausrücken, arbeiten Berufsfeuerwehrleute unter anderem in einer von mehreren Werkstätten der Berufsfeuerwehr Bern. Die Berufsfeuerwehrleute sind grundsätzlich so in die verschiedenen Werkstätten eingeteilt, dass jeder und jede etwas macht, was mit seinem oder ihrem vorherigen Beruf zu tun hat. Kevin Nideröst zeigt uns zuerst seine Werkstatt, die vorzüglich ausgestattete Schreinerei. «Hier werden unter anderem Türen und andere Holzobjekte repariert.», erklärt uns Kevin Nideröst.  Immer wieder würden hier auch Teile des Mobiliars angefertigt werden, so etwa als die kantonale Einsatzzentrale der Polizei, Feuerwehr und Sanität, kurz KEZ, in den grossen Raum im obersten Stock des Gebäudes eingezogen ist. Damals sei unter anderem ein Holzboden in den ehemaligen Theorieraum der Feuerwehr eingebaut worden, um die zahlreichen Kabel, die benötigt wurden, darunter zu verstauen. Dieser Holzboden sei in dieser Werkstatt entstanden. 
 
 Wir verlassen die Schreinerei und laufen den Gang hinunter zur nächsten Tür. Nun befinden wir uns in der Schlosserei mit dem Lackierwerk. Rechts neben der Tür steht eine grosse Blechwalze. Hier werden hauptsächlich Lackschäden an Fahrzeugen der Berufsfeuerwehr repariert. Um die alte Lackierung zu entfernen, ist das Lackierwerk auch mit einem Sandstrahler ausgestattet. Eine weitere Werkstatt ist für den Unterhalt der Personenfahrzeuge der Berufsfeuerwehr ausgestattet. Der Fahrzeuglift in dieser Werkstatt ist nur für Autos geeignet. Grössere Fahrzeuge können zwar durch die Tore in die Autowerkstatt hineingefahren werden, wenn jedoch bei solchen Fahrzeugen etwas am Unterboden repariert werden muss, müssen sie in die Waschanlage, die sogenannte Lavage, gefahren werden, wo sich der grosse Fahrzeuglift befindet. 
 
-Als wir später zur Waschanlage gehen, die von beiden Seiten durch Tore befahrbar ist, sind der Boden und der grosse Lift noch nass von der letzten Benutzung der Lavage. Kevin Nideröst erzählt uns, dass die Berufsfeuerwehrleute gegen eine jährliche Pauschale, die alle zahlten, die Waschanlage und den Autolift in der Autowerkstatt auch privat benutzen dürften. Ausserdem könnten die Berufsfeuerwehrleute zu einem leicht tieferen Preis als an normalen Tankstellen an der hauseigenen Tankstelle ihre Autos tanken.
+Als wir später zur Waschanlage gehen, die von beiden Seiten durch Tore befahrbar ist, sind der Boden und der grosse Lift noch nass von der letzten Benutzung der Lavage. Kevin Nideröst erzählt uns, dass die Berufsfeuerwehrleute gegen eine jährliche Pauschale, die alle zahlten, die Waschanlage und den Autolift in der Autowerkstatt auch privat benutzen dürften. Ausserdem könnten die Berufsfeuerwehrleute an der hauseigenen Tankstelle ihre Autos tanken.
 
 ![Die Waschanlage mit dem Lift für grosse Fahrzeuge. (aufgenommen von Fabrice Bouquet)](img_20221021_141026-resized.jpg)
 
@@ -41,7 +33,7 @@ Kevin Nideröst erzählt uns, es sei geplant, die Pikettdienstautos der Berufsfe
 
 ##### Unter Druck
 
-Nach dem Anschauen der Werkstätten und der Waschanlage laufen wir zur Sattlerei. Auf dem Weg dorthin herrscht auf einmal wieder reger Betrieb, denn die Mittagspause ist nun vorbei. Berufsfeuerwehrmänner laufen uns entgegen, grüssen uns. Die Sattlerei ist ein kleiner Raum, verglichen mit den vorher erwähnten Werkstätten. In der Sattlerei wird die Schutzausrüstung der Berufsfeuerwehrmänner, wie Schuhe, Helme und Brandschutzbekleidung, repariert.
+Nach dem Anschauen der Werkstätten und der Waschanlage laufen wir zur Sattlerei. Auf dem Weg dorthin herrscht auf einmal wieder reger Betrieb, denn die Mittagspause ist nun vorbei. Berufsfeuerwehrmänner laufen uns entgegen, grüssen uns. Die Sattlerei ist ein kleiner Raum, verglichen mit den vorher erwähnten Werkstätten. In der Sattlerei wird die Schutzausrüstung der Berufsfeuerwehrleute, wie Schuhe, Helme und Brandschutzbekleidung, repariert.
 
 ![Die Sattlerei, in der die Schutzbekleidung instandgehalten wird. (aufgenommen von Fabrice Bouquet)](img_20221021_140316-resized.jpg)
 
@@ -57,7 +49,7 @@ Der Raum, in dem die Atemschutzgeräte gelagert werden, besteht aus einem Teil, 
 
 Auf dem Rückweg zum Haupteingang laufen wir durch die Haupthalle, wo die Fahrzeuge der Berufsfeuerwehr stehen. «Der Kran ist mein Lieblingsfahrzeug, da er gross und vielseitig einsetzbar ist. Er ist fast wie ein Spielzeug für grosse Jungs», erklärt uns Kevin Nideröst. Genau dieser Kran habe er bei seinem letzten Einsatz eingesetzt. «Mein letzter Einsatz war eine Grosstierrettung. Ein Kalb war in eine Güllegrube gefallen und wir mussten es herausheben», führt Kevin Nideröst aus. «Um das Kalb am Kran zu befestigen, musste ihm zuerst ein sogenanntes Grosstierrettungsnetz angezogen werden. Dazu mussten wir hinab in die Güllegrube steigen. Zum Schutz vor der Gülle und den Gasen in der Güllegrube haben wir Trockentauchanzüge mit Handschuhen und Stiefeln zusätzlich zum Atemschutzgerät getragen», erklärt uns Kevin Nideröst. Mit dieser Schutzausrüstung merke man gar nicht viel von der Gülle. Man wisse zwar, dass man in der Gülle sei, doch man rieche nichts. Als das Rettungsnetz schliesslich befestigt gewesen sei, sei das Kalb mit dem Kran aus der Güllegrube gehoben worden.
 
-> *«Berufsfeuerwehrmänner sind dazu verpflichtet, fit zu sein.»*
+> *«Berufsfeuerwehrleute sind dazu verpflichtet, fit zu sein.»*
 >
 >  *Kevin Nideröst*
 
