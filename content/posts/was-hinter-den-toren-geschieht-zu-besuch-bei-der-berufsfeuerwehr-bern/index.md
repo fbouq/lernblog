@@ -1,5 +1,5 @@
 +++
-title = "Was hinter den Toren geschieht – zu Besuch bei der Berufsfeuerwehr Bern2"
+title = "Was hinter den Toren geschieht – zu Besuch bei der Berufsfeuerwehr Bern"
 date = "2022-11-30"
 draft = false
 pinned = false
