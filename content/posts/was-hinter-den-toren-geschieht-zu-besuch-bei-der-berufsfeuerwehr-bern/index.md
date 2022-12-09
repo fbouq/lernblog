@@ -3,6 +3,7 @@ title = "Was hinter den Toren geschieht – zu Besuch bei der Berufsfeuerwehr Be
 date = "2022-11-30"
 draft = false
 pinned = false
+tags = ["Deutsch", "Reportage"]
 image = "img_20221021_141129-resized.jpg"
 +++
 ###### *Eine Reportage von Fabrice Bouquet und Linus Kradolfer*
