@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "img_20221021_141129-resized.jpg"
 +++
-###### Eine Reportage von Fabrice Bouquet und Linus Kradolfer
+###### *Eine Reportage von Fabrice Bouquet und Linus Kradolfer*
 
 ## Die Berufsfeuerwehr Bern löscht nicht nur Brände. Diese machen nur ca. 10% der Einsätze der Berufsfeuerwehr aus. Die Berufsfeuerwehrleute sind jedoch nicht ständig im Einsatz. Um zu erfahren, was die Berufsfeuerwehrleute ausserhalb von Einsätzen machen, haben wir die Berufsfeuerwehr Bern besucht.
 
