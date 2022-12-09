@@ -7,7 +7,15 @@ image = "img_20221021_141129-resized.jpg"
 +++
 ###### *Eine Reportage von Fabrice Bouquet und Linus Kradolfer*
 
+
+
+{{<lead>}}
+
 ## Die Berufsfeuerwehr Bern löscht nicht nur Brände. Diese machen nur ca. 10% der Einsätze der Berufsfeuerwehr aus. Die Berufsfeuerwehrleute sind jedoch nicht ständig im Einsatz. Um zu erfahren, was die Berufsfeuerwehrleute ausserhalb von Einsätzen machen, haben wir die Berufsfeuerwehr Bern besucht.
+
+{{</lead>}}
+
+
 
 ![Blick in die lange Fahrzeughalle mit dem Grosslöschfahrzeug mit dem 10'000 Liter Tank im Vordergrund. (aufgenommen von Fabrice Bouquet)](img_20221021_141129-resized.jpg)
 
